@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    zoom: 170%;
 }
 
 img {
@@ -34,3 +35,4 @@ button {
     left: 300px;
     font-size: 15px
 }
+
